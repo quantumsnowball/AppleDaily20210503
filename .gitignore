@@ -2,4 +2,4 @@ desktop.ini
 .git/
 .ipynb_checkpoints/
 assets/_download.ipynb
-
+__pycache__/
